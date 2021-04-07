@@ -1,334 +1,337 @@
 EDAD_ANOS;SEXO;SUM_of_1aDOSIS;SUM_of_2aDOSIS
-15;Hombre;18;1
+15;Hombre;20;1
 15;Mujer;9;1
-16;Hombre;4736;95
+16;Desconocido;1;
+16;Hombre;4913;110
 16;Intersex (Indeterminado);2;
-16;Mujer;4377;89
+16;Mujer;4524;107
 17;Desconocido;1;
-17;Hombre;5325;185
+17;Hombre;5495;207
 17;Intersex (Indeterminado);2;
-17;Mujer;4990;147
-18;Hombre;12284;2009
+17;Mujer;5150;177
+18;Hombre;12543;2055
 18;Intersex (Indeterminado);2;
-18;Mujer;11544;1740
-19;Hombre;16483;4164
+18;Mujer;11808;1792
+19;Hombre;16786;4258
 19;Intersex (Indeterminado);6;1
-19;Mujer;14725;2917
-20;Hombre;18363;4471
-20;Intersex (Indeterminado);5;
-20;Mujer;18002;4523
+19;Mujer;15024;3031
+20;Hombre;18762;4560
+20;Intersex (Indeterminado);6;1
+20;Mujer;18419;4687
 21;Desconocido;2;
-21;Hombre;19997;5143
+21;Hombre;20460;5256
 21;Intersex (Indeterminado);7;1
-21;Mujer;21223;6768
+21;Mujer;21649;7043
 22;Desconocido;5;2
-22;Hombre;22575;6365
-22;Intersex (Indeterminado);5;2
-22;Mujer;26342;10367
+22;Hombre;23094;6502
+22;Intersex (Indeterminado);6;2
+22;Mujer;26818;10735
 23;Desconocido;2;
-23;Hombre;25253;7912
-23;Intersex (Indeterminado);2;
-23;Mujer;31431;14496
-24;Desconocido;6;4
-24;Hombre;27959;9452
-24;Intersex (Indeterminado);6;2
-24;Mujer;36274;19414
+23;Hombre;25728;8091
+23;Intersex (Indeterminado);3;
+23;Mujer;31922;14962
+24;Desconocido;5;3
+24;Hombre;28503;9656
+24;Intersex (Indeterminado);7;2
+24;Mujer;36723;19832
 25;Desconocido;4;1
-25;Hombre;30654;11264
-25;Intersex (Indeterminado);4;1
-25;Mujer;39745;22776
+25;Hombre;31178;11500
+25;Intersex (Indeterminado);8;1
+25;Mujer;40220;23281
 26;Desconocido;3;1
-26;Hombre;33523;12838
-26;Intersex (Indeterminado);10;3
-26;Mujer;43296;25912
+26;Hombre;34109;13110
+26;Intersex (Indeterminado);12;3
+26;Mujer;43750;26485
 27;Desconocido;8;3
-27;Hombre;35314;14227
-27;Intersex (Indeterminado);9;3
-27;Mujer;45080;27813
-28;Desconocido;7;3
-28;Hombre;37523;15548
-28;Intersex (Indeterminado);24;2
-28;Mujer;47115;29543
-29;Desconocido;6;1
-29;Hombre;39401;16100
-29;Intersex (Indeterminado);7;
-29;Mujer;49424;30778
-30;Desconocido;8;2
-30;Hombre;42422;17285
-30;Intersex (Indeterminado);9;2
-30;Mujer;51401;31782
-31;Desconocido;13;7
-31;Hombre;43738;17829
-31;Intersex (Indeterminado);12;1
-31;Mujer;52198;32095
+27;Hombre;35915;14477
+27;Intersex (Indeterminado);12;3
+27;Mujer;45581;28440
+28;Desconocido;8;4
+28;Hombre;38176;15794
+28;Intersex (Indeterminado);28;2
+28;Mujer;47578;30131
+29;Desconocido;5;1
+29;Hombre;40083;16383
+29;Intersex (Indeterminado);9;
+29;Mujer;49936;31388
+30;Desconocido;7;2
+30;Hombre;43047;17607
+30;Intersex (Indeterminado);8;2
+30;Mujer;51925;32369
+31;Desconocido;12;7
+31;Hombre;44460;18158
+31;Intersex (Indeterminado);16;1
+31;Mujer;52768;32713
 32;Desconocido;13;5
-32;Hombre;43526;17625
-32;Intersex (Indeterminado);12;2
-32;Mujer;51016;30953
+32;Hombre;44212;17928
+32;Intersex (Indeterminado);17;2
+32;Mujer;51568;31449
 33;Desconocido;7;4
-33;Hombre;42315;16742
-33;Intersex (Indeterminado);11;1
-33;Mujer;49380;29452
-34;Desconocido;8;2
-34;Hombre;41364;16381
-34;Intersex (Indeterminado);6;4
-34;Mujer;48138;28650
+33;Hombre;42986;17030
+33;Intersex (Indeterminado);15;1
+33;Mujer;49900;29945
+34;Desconocido;9;2
+34;Hombre;42001;16662
+34;Intersex (Indeterminado);8;3
+34;Mujer;48630;29145
 35;Desconocido;4;
-35;Hombre;40262;15567
-35;Intersex (Indeterminado);15;4
-35;Mujer;46368;27080
+35;Hombre;40925;15813
+35;Intersex (Indeterminado);17;4
+35;Mujer;46843;27554
 36;Desconocido;5;2
-36;Hombre;39848;15061
-36;Intersex (Indeterminado);11;1
-36;Mujer;45741;26582
+36;Hombre;40499;15326
+36;Intersex (Indeterminado);18;1
+36;Mujer;46247;27013
 37;Desconocido;5;4
-37;Hombre;39342;14400
-37;Intersex (Indeterminado);12;1
-37;Mujer;45399;25547
-38;Desconocido;8;4
-38;Hombre;41422;14950
-38;Intersex (Indeterminado);11;1
-38;Mujer;47597;26377
-39;Desconocido;10;4
-39;Hombre;41851;14723
-39;Intersex (Indeterminado);4;1
-39;Mujer;48482;25984
-40;Desconocido;13;2
-40;Hombre;40368;14096
+37;Hombre;39940;14672
+37;Intersex (Indeterminado);14;1
+37;Mujer;45908;25972
+38;Desconocido;7;3
+38;Hombre;42069;15207
+38;Intersex (Indeterminado);16;1
+38;Mujer;48173;26834
+39;Desconocido;9;4
+39;Hombre;42547;14991
+39;Intersex (Indeterminado);8;1
+39;Mujer;49070;26418
+40;Desconocido;12;2
+40;Hombre;40985;14333
 40;Intersex (Indeterminado);13;1
-40;Mujer;46489;24794
-41;Desconocido;14;8
-41;Hombre;39677;13149
-41;Intersex (Indeterminado);9;2
-41;Mujer;45972;23431
+40;Mujer;47026;25129
+41;Desconocido;14;9
+41;Hombre;40353;13352
+41;Intersex (Indeterminado);13;2
+41;Mujer;46533;23772
 42;Desconocido;1;1
-42;Hombre;38135;12402
-42;Intersex (Indeterminado);12;
-42;Mujer;45191;22092
-43;Desconocido;7;3
-43;Hombre;37967;12106
-43;Intersex (Indeterminado);8;
-43;Mujer;44740;21348
-44;Desconocido;4;2
-44;Hombre;38863;11889
-44;Intersex (Indeterminado);8;3
-44;Mujer;46323;21682
+42;Hombre;38761;12620
+42;Intersex (Indeterminado);17;
+42;Mujer;45709;22400
+43;Desconocido;7;4
+43;Hombre;38586;12324
+43;Intersex (Indeterminado);10;
+43;Mujer;45262;21657
+44;Desconocido;6;4
+44;Hombre;39454;12104
+44;Intersex (Indeterminado);12;3
+44;Mujer;46817;21954
 45;Desconocido;4;
-45;Hombre;40625;12258
-45;Intersex (Indeterminado);11;
-45;Mujer;48779;21794
-46;Desconocido;3;
-46;Hombre;41088;12017
-46;Intersex (Indeterminado);15;2
-46;Mujer;51286;22209
+45;Hombre;41297;12497
+45;Intersex (Indeterminado);17;
+45;Mujer;49334;22156
+46;Desconocido;1;
+46;Hombre;41755;12429
+46;Intersex (Indeterminado);20;2
+46;Mujer;51880;22826
 47;Desconocido;6;3
-47;Hombre;42147;12188
-47;Intersex (Indeterminado);8;
-47;Mujer;51769;21875
+47;Hombre;42815;12593
+47;Intersex (Indeterminado);14;
+47;Mujer;52339;22528
 48;Desconocido;4;1
-48;Hombre;42616;11823
-48;Intersex (Indeterminado);14;2
-48;Mujer;53153;21629
+48;Hombre;43256;12259
+48;Intersex (Indeterminado);16;2
+48;Mujer;53819;22338
 49;Desconocido;10;4
-49;Hombre;42967;11186
-49;Intersex (Indeterminado);11;2
-49;Mujer;54486;21029
+49;Hombre;43796;11692
+49;Intersex (Indeterminado);17;2
+49;Mujer;55232;21768
 50;Desconocido;5;1
-50;Hombre;46876;10933
-50;Intersex (Indeterminado);25;
-50;Mujer;58323;19967
-51;Desconocido;16;1
-51;Hombre;49914;10544
-51;Intersex (Indeterminado);26;
-51;Mujer;61812;19216
-52;Desconocido;13;4
-52;Hombre;69437;10729
-52;Intersex (Indeterminado);58;1
-52;Mujer;84281;19672
+50;Hombre;48957;11491
+50;Intersex (Indeterminado);45;
+50;Mujer;60220;20843
+51;Desconocido;19;1
+51;Hombre;64085;11187
+51;Intersex (Indeterminado);85;
+51;Mujer;76722;20194
+52;Desconocido;14;4
+52;Hombre;71807;11451
+52;Intersex (Indeterminado);82;2
+52;Mujer;86344;20748
 53;Desconocido;11;3
-53;Hombre;72964;10723
-53;Intersex (Indeterminado);42;1
-53;Mujer;87314;19592
-54;Desconocido;14;2
-54;Hombre;75602;11120
-54;Intersex (Indeterminado);34;
-54;Mujer;90795;20058
+53;Hombre;74737;11520
+53;Intersex (Indeterminado);54;1
+53;Mujer;88693;20805
+54;Desconocido;15;3
+54;Hombre;77010;12205
+54;Intersex (Indeterminado);44;
+54;Mujer;91935;21627
 55;Desconocido;18;4
-55;Hombre;78202;11299
-55;Intersex (Indeterminado);31;1
-55;Mujer;93689;20363
+55;Hombre;79490;12933
+55;Intersex (Indeterminado);41;1
+55;Mujer;94623;22763
 56;Desconocido;11;2
-56;Hombre;79933;12008
-56;Intersex (Indeterminado);41;
-56;Mujer;95011;20744
-57;Desconocido;16;4
-57;Hombre;81183;12716
-57;Intersex (Indeterminado);25;
-57;Mujer;96070;21111
+56;Hombre;81038;21421
+56;Intersex (Indeterminado);47;
+56;Mujer;95893;34936
+57;Desconocido;18;7
+57;Hombre;82128;23344
+57;Intersex (Indeterminado);34;
+57;Mujer;96746;36862
 58;Desconocido;14;3
-58;Hombre;82829;21707
-58;Intersex (Indeterminado);16;
-58;Mujer;97613;34051
+58;Hombre;83681;26774
+58;Intersex (Indeterminado);22;
+58;Mujer;98259;41446
 59;Desconocido;12;5
-59;Hombre;80375;24076
-59;Intersex (Indeterminado);16;2
-59;Mujer;94868;36399
-60;Desconocido;11;6
-60;Hombre;83710;54008
-60;Intersex (Indeterminado);16;5
-60;Mujer;97636;69570
-61;Desconocido;10;9
-61;Hombre;78364;56909
-61;Intersex (Indeterminado);12;6
-61;Mujer;91580;71670
-62;Desconocido;12;9
-62;Hombre;76952;58840
-62;Intersex (Indeterminado);9;4
-62;Mujer;89689;73384
+59;Hombre;81083;28872
+59;Intersex (Indeterminado);21;3
+59;Mujer;95389;43286
+60;Desconocido;11;8
+60;Hombre;84168;59174
+60;Intersex (Indeterminado);18;6
+60;Mujer;97988;75307
+61;Desconocido;11;9
+61;Hombre;78728;60026
+61;Intersex (Indeterminado);16;6
+61;Mujer;91874;74885
+62;Desconocido;12;10
+62;Hombre;77263;61208
+62;Intersex (Indeterminado);10;4
+62;Mujer;89918;75612
 63;Desconocido;12;8
-63;Hombre;76693;60845
-63;Intersex (Indeterminado);16;8
-63;Mujer;88495;74238
+63;Hombre;76978;62715
+63;Intersex (Indeterminado);17;9
+63;Mujer;88699;76011
 64;Desconocido;8;6
-64;Hombre;73123;59543
-64;Intersex (Indeterminado);8;6
-64;Mujer;84861;72449
-65;Desconocido;11;10
-65;Hombre;70889;62558
-65;Intersex (Indeterminado);7;4
-65;Mujer;82558;74868
+64;Hombre;73348;60999
+64;Intersex (Indeterminado);9;6
+64;Mujer;85059;73882
+65;Desconocido;9;8
+65;Hombre;71056;63223
+65;Intersex (Indeterminado);11;4
+65;Mujer;82708;75537
 66;Desconocido;5;4
-66;Hombre;65275;58564
-66;Intersex (Indeterminado);2;2
-66;Mujer;76657;69909
+66;Hombre;65409;59105
+66;Intersex (Indeterminado);3;2
+66;Mujer;76754;70465
 67;Desconocido;9;9
-67;Hombre;65110;59033
-67;Intersex (Indeterminado);7;4
-67;Mujer;76357;70350
+67;Hombre;65223;59494
+67;Intersex (Indeterminado);9;4
+67;Mujer;76445;70844
 68;Desconocido;7;6
-68;Hombre;59610;54334
-68;Intersex (Indeterminado);4;4
-68;Mujer;70346;64955
-69;Desconocido;8;6
-69;Hombre;55642;51068
+68;Hombre;59707;54723
+68;Intersex (Indeterminado);7;6
+68;Mujer;70429;65392
+69;Desconocido;8;7
+69;Hombre;55733;51404
 69;Intersex (Indeterminado);5;4
-69;Mujer;65702;60855
+69;Mujer;65763;61199
 70;Desconocido;7;7
-70;Hombre;52649;48632
-70;Intersex (Indeterminado);1;1
-70;Mujer;62451;58151
+70;Hombre;52733;48906
+70;Intersex (Indeterminado);2;1
+70;Mujer;62529;58487
 71;Desconocido;7;5
-71;Hombre;50442;46891
-71;Intersex (Indeterminado);2;1
-71;Mujer;60533;56712
-72;Desconocido;6;5
-72;Hombre;48223;45014
+71;Hombre;50507;47120
+71;Intersex (Indeterminado);1;
+71;Mujer;60593;56966
+72;Desconocido;6;6
+72;Hombre;48280;45228
 72;Intersex (Indeterminado);3;2
-72;Mujer;58728;55023
-73;Desconocido;3;3
-73;Hombre;45380;42511
+72;Mujer;58778;55264
+73;Desconocido;4;3
+73;Hombre;45431;42700
 73;Intersex (Indeterminado);3;3
-73;Mujer;55827;52305
-74;Desconocido;6;6
-74;Hombre;42418;39663
-74;Intersex (Indeterminado);3;2
-74;Mujer;52995;49687
+73;Mujer;55875;52565
+74;Desconocido;7;7
+74;Hombre;42460;39831
+74;Intersex (Indeterminado);5;3
+74;Mujer;53041;49927
 75;Desconocido;3;3
-75;Hombre;39835;37359
+75;Hombre;39887;37516
 75;Intersex (Indeterminado);1;1
-75;Mujer;50159;47106
+75;Mujer;50218;47324
 76;Desconocido;5;5
-76;Hombre;37137;34813
+76;Hombre;37172;34961
 76;Intersex (Indeterminado);4;2
-76;Mujer;47738;44834
+76;Mujer;47784;45040
 77;Desconocido;4;4
-77;Hombre;33602;31584
+77;Hombre;33634;31707
 77;Intersex (Indeterminado);2;2
-77;Mujer;43670;40956
+77;Mujer;43730;41146
 78;Desconocido;5;5
-78;Hombre;31129;29203
+78;Hombre;31164;29322
 78;Intersex (Indeterminado);1;1
-78;Mujer;41667;39003
+78;Mujer;41702;39164
 79;Desconocido;4;4
-79;Hombre;27842;26157
+79;Hombre;27863;26261
 79;Intersex (Indeterminado);2;2
-79;Mujer;38335;35905
-80;Desconocido;4;3
-80;Hombre;26012;24421
+79;Mujer;38378;36089
+80;Desconocido;3;2
+80;Hombre;26043;24528
 80;Intersex (Indeterminado);1;1
-80;Mujer;36547;34146
+80;Mujer;36600;34301
 81;Desconocido;1;1
-81;Hombre;22278;20923
-81;Mujer;32713;30566
+81;Hombre;22303;21013
+81;Mujer;32741;30722
 82;Desconocido;1;1
-82;Hombre;19155;17971
-82;Intersex (Indeterminado);1;1
-82;Mujer;28596;26722
+82;Hombre;19172;18053
+82;Intersex (Indeterminado);2;1
+82;Mujer;28632;26864
 83;Desconocido;4;3
-83;Hombre;17241;16182
+83;Hombre;17255;16246
 83;Intersex (Indeterminado);2;1
-83;Mujer;26140;24269
-84;Desconocido;4;2
-84;Hombre;15312;14304
-84;Mujer;24127;22495
+83;Mujer;26166;24411
+84;Desconocido;4;3
+84;Hombre;15329;14374
+84;Mujer;24166;22608
 85;Desconocido;1;1
-85;Hombre;13355;12414
-85;Mujer;21701;20135
-86;Hombre;11567;10779
-86;Mujer;19834;18434
+85;Hombre;13381;12480
+85;Mujer;21727;20240
+86;Hombre;11585;10831
+86;Intersex (Indeterminado);1;1
+86;Mujer;19860;18529
 87;Desconocido;1;1
-87;Hombre;9783;9120
-87;Mujer;17272;16078
-88;Desconocido;1;
-88;Hombre;8845;8213
+87;Hombre;9798;9155
+87;Mujer;17296;16153
+88;Desconocido;2;1
+88;Hombre;8854;8248
 88;Intersex (Indeterminado);2;1
-88;Mujer;16188;14957
-89;Desconocido;2;2
-89;Hombre;7461;6921
+88;Mujer;16215;15038
+89;Desconocido;1;1
+89;Hombre;7468;6952
 89;Intersex (Indeterminado);1;1
-89;Mujer;14216;13173
+89;Mujer;14235;13257
 90;Desconocido;5;3
-90;Hombre;6357;5884
+90;Hombre;6366;5908
 90;Intersex (Indeterminado);2;2
-90;Mujer;13384;12313
-91;Hombre;4960;4573
-91;Mujer;11024;10163
-92;Hombre;3888;3599
-92;Mujer;9064;8320
-93;Desconocido;2;1
-93;Hombre;2930;2719
+90;Mujer;13398;12394
+91;Desconocido;1;1
+91;Hombre;4966;4593
+91;Mujer;11041;10220
+92;Hombre;3894;3613
+92;Mujer;9080;8359
+93;Desconocido;3;2
+93;Hombre;2932;2731
 93;Intersex (Indeterminado);1;1
-93;Mujer;6980;6381
-94;Hombre;1959;1786
+93;Mujer;6989;6417
+94;Hombre;1964;1795
 94;Intersex (Indeterminado);1;
-94;Mujer;5150;4707
+94;Mujer;5159;4740
 95;Desconocido;2;2
-95;Hombre;1368;1224
-95;Mujer;3894;3557
-96;Hombre;1054;944
-96;Mujer;3062;2768
-97;Hombre;679;626
-97;Mujer;2140;1946
-98;Hombre;453;405
-98;Mujer;1566;1401
-99;Hombre;317;285
-99;Mujer;1011;918
-100;Hombre;172;151
-100;Mujer;708;644
-101;Hombre;102;87
-101;Mujer;426;380
+95;Hombre;1371;1230
+95;Mujer;3898;3581
+96;Hombre;1055;953
+96;Mujer;3067;2783
+97;Hombre;681;631
+97;Mujer;2140;1957
+98;Hombre;454;408
+98;Mujer;1566;1408
+99;Hombre;318;290
+99;Mujer;1014;925
+100;Hombre;173;152
+100;Mujer;708;646
+101;Hombre;103;90
+101;Mujer;425;381
 102;Hombre;54;47
-102;Mujer;277;242
+102;Mujer;277;245
 103;Hombre;35;31
-103;Mujer;167;144
+103;Mujer;167;146
 104;Hombre;15;10
-104;Mujer;96;86
+104;Mujer;97;86
 105;Hombre;16;11
-105;Mujer;52;44
+105;Mujer;52;45
 106;Hombre;2;2
 106;Mujer;25;24
 107;Hombre;4;3
-107;Mujer;22;18
+107;Mujer;21;18
 108;Hombre;1;1
 108;Mujer;18;15
 109;Hombre;1;1
